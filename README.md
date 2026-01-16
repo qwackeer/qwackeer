@@ -13,7 +13,6 @@
 
 <p align="left">✨Creating bugs since birth<br>📚 I'm currently learning HTML and CSS<br>🎯 Goals: To Graduate at this University<br>🎲 Fun fact: I workout workout workout</p>
 
-<p align="left">hahahahahahahahahahahahaha</p>
 
 ###
 
